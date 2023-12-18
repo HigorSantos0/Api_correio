@@ -42,7 +42,7 @@ curl http://localhost:6868/zip/03358150
     "state": "SP",
     "city": "São Paulo"
 }
-```
+
 
 503 serviço indisponível
 
@@ -53,6 +53,7 @@ curl http://localhost:6868/zip/03358150
     "message": "This service is being installed, please wait a few moments.",
     "path": "/zip/03358150"
 }
+```
 
 curl http://localhost:6868/zip/9999999
 204 Sem Conteúdo
