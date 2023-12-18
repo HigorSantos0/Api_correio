@@ -34,6 +34,7 @@ Enquanto esse setup não termina, você receberá o erro 503, conforme exemplo a
 curl http://localhost:6868/zip/03358150
 200 OK
 
+``` Java
 {
     "zipcode": "03358150",
     "street": "Rua Ituri",
@@ -41,6 +42,7 @@ curl http://localhost:6868/zip/03358150
     "state": "SP",
     "city": "São Paulo"
 }
+```
 
 503 serviço indisponível
 
