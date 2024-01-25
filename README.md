@@ -32,6 +32,9 @@ Enquanto esse setup não termina, você receberá o erro 503, conforme exemplo a
 # Exemplos para testar
 
 curl http://localhost:6868/zip/03358150
+
+Execute esse comando no gitbash e ele irá retornar o endereço salvo no banco de dados
+
 200 OK
 
 ``` Java
@@ -56,6 +59,12 @@ curl http://localhost:6868/zip/03358150
 ```
 
 curl http://localhost:6868/zip/9999999
+
 204 Sem Conteúdo
+
+# Funcionamento na Prática
+
+https://github.com/HigorSantos0/Api_correio/assets/104693796/3d64f836-dd7e-4c08-9f78-02251ce99c07
+
 
 
