@@ -31,7 +31,7 @@ Enquanto esse setup não termina, você receberá o erro 503, conforme exemplo a
 
 # Exemplos para testar
 
-curl http://localhost:6868/zip/03358150
+![image](https://github.com/HigorSantos0/Api_correio/assets/104693796/6798ef22-602d-405e-b2ad-00079eda36ee)
 
 Execute esse comando no gitbash e ele irá retornar o endereço salvo no banco de dados
 
