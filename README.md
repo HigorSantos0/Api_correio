@@ -31,6 +31,13 @@ Enquanto esse setup não termina, você receberá o erro 503, conforme exemplo a
 
 # Exemplos para testar
 
+## Antes de testar, crie sua base no banco de dados MySql
+![image](https://github.com/HigorSantos0/Api_correio/assets/104693796/1ba42f59-5cc9-4c9e-ad9a-c467f8b2dfc8)
+
+## Depois execute esse comando no MySql
+![image](https://github.com/HigorSantos0/Api_correio/assets/104693796/e1b62230-b7c2-49c3-a784-8b97f02b0754)
+
+## Em Seguida com o projeto rodando no Spring Boot, execute o seguinte comando no Git Bash
 ![image](https://github.com/HigorSantos0/Api_correio/assets/104693796/6798ef22-602d-405e-b2ad-00079eda36ee)
 
 Execute esse comando no gitbash e ele irá retornar o endereço salvo no banco de dados
