@@ -16,7 +16,7 @@ Depois do setup é possível pesquisar de forma fácil, via API REST, qualquer c
 -> Spring family
 -> Composição do Docker
 
-### Cobertura de testículos
+### Cobertura 
 
 100% coberto por testes de integrações, utilizando:
 -> org.mock-server
